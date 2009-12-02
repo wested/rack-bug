@@ -1,8 +1,8 @@
 # -*- encoding: utf-8 -*-
 
 Gem::Specification.new do |s|
-  s.name = %q{rack-bug}
-  s.version = "0.2.2.pre"
+  s.name = %q{wested-rack-bug}
+  s.version = "0.2.2.1"
 
   s.required_rubygems_version = Gem::Requirement.new("> 1.3.1") if s.respond_to? :required_rubygems_version=
   s.authors = ["Bryan Helmkamp"]
